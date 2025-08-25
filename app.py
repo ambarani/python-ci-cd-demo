@@ -1,3 +1,4 @@
+print("Hello from GitHub Actions CI/CD 🚀")
 def add(a, b):
     return a + b
 
